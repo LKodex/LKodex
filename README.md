@@ -32,7 +32,7 @@
 
 ## 👋 What's up, I'm Lucas
 
-- 🎓 I'm graduating in Software Engineering at UFMS
+- 🎓 I'm Software Engineering undergraduate student at UFMS
 - 🤝 I'm looking for professional opportunities to grow up
 - 🤔 Interested in graphical computing and game developing
 - 💻 Studying SDL and OpenGL with C++
