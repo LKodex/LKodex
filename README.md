@@ -20,7 +20,7 @@
 
 ## 👋 Salve salve família, eu sou o Lucas
 
-- 🎓 Sou graduando em Engenharia de Software na UFMS
+- 🎓 Sou graduando em Engenharia de Software na UFMS (Universidade Federal de Mato Grosso do Sul)
 - 🤝 Estou buscando oportunidades profissionais para crescer
 - 🤔 Interessado e computação gráfica e desenvolvimento de jogos
 - 💻 Estudando SDL e OpenGL com C++
@@ -32,7 +32,7 @@
 
 ## 👋 What's up, I'm Lucas
 
-- 🎓 I'm Software Engineering undergraduate student at UFMS
+- 🎓 I'm Software Engineering undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
 - 🤝 I'm looking for professional opportunities to grow up
 - 🤔 Interested in graphical computing and game developing
 - 💻 Studying SDL and OpenGL with C++
