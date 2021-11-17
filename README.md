@@ -23,7 +23,7 @@
 
 - 🎓 Sou graduando em Engenharia de Software na UFMS (Universidade Federal de Mato Grosso do Sul)
 - 🤝 Estou buscando oportunidades profissionais para crescer
-- 🤔 Interessado e computação gráfica e desenvolvimento de jogos
+- 🤔 Interessado em computação gráfica e desenvolvimento de jogos
 - 💻 Estudando SDL e OpenGL com C++
 
 - 📫 Contato: lucasgon192@gmail.com
