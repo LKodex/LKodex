@@ -22,9 +22,9 @@
 ## 👋 Salve salve família, eu sou o Lucas
 
 - 🎓 Sou graduando em Engenharia de Software na UFMS (Universidade Federal de Mato Grosso do Sul)
-- 🤝 Estou buscando oportunidades profissionais para crescer
+- 🤝 Não estou buscando mas estou abreto a novas oportunidades
 - 🤔 Interessado em computação gráfica e desenvolvimento de jogos
-- 💻 Estudando SDL e OpenGL com C++
+- 💻 Estudando NodeJS e RESTful APIs
 
 - 📫 Contato: lucasgon192@gmail.com
 - 📫 Contato Acadêmico: lucas.g.cordeiro@ufms.br
@@ -34,9 +34,9 @@
 ## 👋 What's up, I'm Lucas
 
 - 🎓 I'm Software Engineering undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
-- 🤝 I'm looking for professional opportunities to grow up
+- 🤝 I'm not looking but I'm open for opportunities
 - 🤔 Interested in graphical computing and game developing
-- 💻 Studying SDL and OpenGL with C++
+- 💻 Studying NodeJS and RESTful APIs
 
 - 📫 Contact: lucasgon192@gmail.com
 - 📫 Academic Contact: lucas.g.cordeiro@ufms.br
