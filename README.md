@@ -31,7 +31,7 @@
 
 # English
 
-## 👋 What's up, I'm Lucas
+## 👋 What's up, my name is Lucas, self nicknamed Kodex
 
 - 🎓 I'm Software Engineering undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
 - 🤝 Always open for professional opportunities
