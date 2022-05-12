@@ -10,21 +10,21 @@
 
   <div>
     <strong>Known programming languages:</strong>
+    <img align="center" alt="LKodex-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="LKodex-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
     <img align="center" alt="LKodex-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="LKodex-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="LKodex-CPP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="center" alt="LKodex-NodeJS" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
 </div>
 
 # Portuguese
 
-## 👋 Salve salve família, eu sou o Lucas
+## 👋 Salve salve família, me chamo Lucas, auto apelidado Kodex
 
 - 🎓 Sou graduando em Engenharia de Software na UFMS (Universidade Federal de Mato Grosso do Sul)
-- 🤝 Não estou buscando mas estou abreto a novas oportunidades
-- 🤔 Interessado em computação gráfica e desenvolvimento de jogos
-- 💻 Estudando NodeJS e RESTful APIs
+- 🤝 Estou sempre aberto a oportunidades profissionais
+- 🤔 Interessado em desenvolvimento back-end
+- 💻 Atualmente desenvolvendo um projeto Java para a faculdade
 
 - 📫 Contato: lucasgon192@gmail.com
 - 📫 Contato Acadêmico: lucas.g.cordeiro@ufms.br
@@ -34,9 +34,9 @@
 ## 👋 What's up, I'm Lucas
 
 - 🎓 I'm Software Engineering undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
-- 🤝 I'm not looking but I'm open for opportunities
-- 🤔 Interested in graphical computing and game developing
-- 💻 Studying NodeJS and RESTful APIs
+- 🤝 Always open for professional opportunities
+- 🤔 Interested in back-end developing
+- 💻 Actually developing a Java project for university
 
 - 📫 Contact: lucasgon192@gmail.com
 - 📫 Academic Contact: lucas.g.cordeiro@ufms.br
