@@ -1,21 +1,11 @@
-# Portuguese
+# Who am I?
 
-## 👋 Salve salve família, me chamo Lucas, auto apelidado Kodex
+- 👋 My name is Lucas, self nicknamed Kodex
+- 💻 I'm a Software Engineer
+- 🎓 Undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
 
-- 🎓 Sou graduando em Engenharia de Software na UFMS (Universidade Federal de Mato Grosso do Sul)
-- 🤝 Aberto a oportunidades profissionais
-- 💻 Desenvolvedor back-end
+Also check my professional profile on GitHub: [@LucasKodex](https://github.com/LucasKodex/)
 
-- 📫 Contato: lucasgon192@gmail.com
-- 📫 Contato Acadêmico: lucas.g.cordeiro@ufms.br
-
-# English
-
-## 👋 What's up, my name is Lucas, self nicknamed Kodex
-
-- 🎓 I'm Software Engineering undergraduate student at UFMS (Federal University of Mato Grosso do Sul)
-- 🤝 Open for professional opportunities
-- 💻 Back-end developer
-
-- 📫 Contact: lucasgon192@gmail.com
+## Contact
+- 📫 Professional Contact: lucas.kodex.dev@gmail.com
 - 📫 Academic Contact: lucas.g.cordeiro@ufms.br
